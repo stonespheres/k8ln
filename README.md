@@ -9,3 +9,8 @@ The compiler used for this project is `gcc-arm-none-eabi` and can be found at th
 ## Virtual Machine
 For compatibility, use `qemu-system-arm`
 
+
+# Sources
+[OS Wiki](https://wiki.osdev.org/ARM_RaspberryPi)
+[Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os)
+
