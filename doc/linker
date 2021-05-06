@@ -1,0 +1,3 @@
+# Linker Scripts
+The main purpose of a linker script is to describe how the sections in the input files should be linked to the output files. In this situation, we want to linke `_c.o` and `_s.o` files to the `.elf` file.
+
